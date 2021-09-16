@@ -6,5 +6,5 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 # [Growth Mindset](/Growth_Mindset.md)
 
 # Navigation
- - [Home](/README.md)
+ - [About Me](/README.md)
  - [Growth Mindset](/Growth_Mindset.md)
