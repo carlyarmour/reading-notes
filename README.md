@@ -3,6 +3,8 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 
 ![Armour Photo](/Armour_resized.jpg)
 
+# [Growth Mindset](/Growth_Mindset.md)
+
 # Navigation
-#### - [Home](/README.md)
-#### - [Growth Mindset](/Growth_Mindset.md)
+ - [Home](/README.md)
+ - [Growth Mindset](/Growth_Mindset.md)
