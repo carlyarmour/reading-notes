@@ -1,7 +1,15 @@
+![Markdown Icon](/Markdown.png)
 # So...What is Markdown? 
 Markdown is a lightweight markup language for generating html files. 
 
-# If your response is "Say what?" 
-In layman's terms, Markdown is a text-to-HTML conversion tool for web writers. 
-It allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
+# If your response is: "Say what?" No worries!
+In layman's terms, Markdown is a text-to-HTML conversion tool for web writers. It allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML)
 
+# What is GitHub? 
+[GitHub](https://github.com/) is an online platform that provides simple assistance with creating webpages. You are able to create Markdown documents on Github. 
+
+# What is Syntax in Computer Progamming/Coding? 
+Syntax is the set of rules that define what the various combinations of symbols mean. This tells the computer how to read the code. Syntax refers to a concept in writing code dealing with a very specific set of words and a very specific order to those words when we give the computer instructions. 
+
+# This is awesome! Where can I learn how to create syntax on Github? 
+Glad you asked! I found this [guide](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) very helpful, which I encourage you to explore. Have fun!
