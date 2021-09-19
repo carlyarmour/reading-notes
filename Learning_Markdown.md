@@ -13,3 +13,8 @@ Syntax is the set of rules that define what the various combinations of symbols 
 
 # This is awesome! Where can I learn how to create syntax on Github? 
 Glad you asked! I found this [guide](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) very helpful, which I encourage you to explore. Have fun!
+
+# Site Navigation
+ - [About Me](/README.md)
+ - [Growth Mindset](/Growth_Mindset.md)
+ - [What is Markdown?](/Learning_Markdown.md)
