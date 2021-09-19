@@ -6,6 +6,10 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 # Growth Mindset
 What are my views on growth mindset? Find out **[here](/Growth_Mindset.md)**!
 
+# So...What _is_ Markdown? 
+Join me on my journey as I learn about Markdown. Curious about what markdown is and does? Check [this out](/Learning_Markdown.md)! 
+
 # Navigation
  - [About Me](/README.md)
  - [Growth Mindset](/Growth_Mindset.md)
+ - [What is Markdown?](/Learning_Markdown.md)
