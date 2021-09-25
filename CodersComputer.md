@@ -61,3 +61,8 @@ The following are important points for files:
 - Linux is an extensionless system. Files can have any extension they like or none at all.
 - Linux is case sensitive. Beware of silly typos.
 
+# Navigation
+ - [About Me](/README.md)
+ - [Growth Mindset](/Growth_Mindset.md)
+ - [What is Markdown?](/Learning_Markdown.md)
+ - [Coder's Computer](/CodersComputer.md)
