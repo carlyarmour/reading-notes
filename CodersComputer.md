@@ -42,16 +42,16 @@ Whenever we refer to a file or directory we are using one of these paths. Whenev
 
 To begin with, we have to understand that the file system under linux is a hierarchical structure. At the very top of the structure is what's called the root directory. It is denoted by a single slash ( / ). It has subdirectories, they have subdirectories and so on. Files may reside in any of these directories.
 
-*Absolute paths* specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
+***Absolute paths*** specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / )
 
-*Relative paths* specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
+***Relative paths*** specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 
 ## Moving Around in the System
 In order to move around in the system, we use a command called cd which stands for change directory. It works as follows: `cd [location]'.
-- ***`cd`*** - means "change directory". If you type in only  `cd`, it will return you to the home directory.
-  * ***`cd DeltaV`*** will take you directly to the DeltaV directory.
-  * ***`cd /`*** will take you to the root directory.
-  * ***`cd ~`*** will take you to the home directory
+- **`cd`** - means "change directory". If you type in only  `cd`, it will return you to the home directory.
+  * **`cd DeltaV`** will take you directly to the DeltaV directory.
+  * **`cd /`** will take you to the root directory.
+  * **`cd ~`** will take you to the home directory
   
 ## Files: `file [path]`
 [Linux Tutoral on Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
