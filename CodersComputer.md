@@ -26,7 +26,7 @@ about earlier, and most of this software is absolutely free! They are widely use
 already built-in with no additional work from you at all. VS Code has everything: syntax highlighting, themes, extensions and code completion. It seems like VS Code has a very healthy following in the
 web developing community.
 
-# Cheat Sheet/Notes for Coding
+# Cheat Sheet & Notes for Coding
 *[Linux Tutorial Basic Navigation Source](https://ryanstutorials.net/linuxtutorial/navigation.php)*
 
 ### Navigation
