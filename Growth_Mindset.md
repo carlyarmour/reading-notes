@@ -6,7 +6,8 @@ Having a _growth mindset_ means that I can learn new skills or improve on existi
 2. Having a positive attitude when challenges arise versus giving up. 
 3. Receiving feedback as constructive and making adjustments. 
 
-# Site Navigation
+# Navigation
  - [About Me](/README.md)
  - [Growth Mindset](/Growth_Mindset.md)
  - [What is Markdown?](/Learning_Markdown.md)
+ - [Coder's Computer](/CodersComputer.md)
