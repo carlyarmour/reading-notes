@@ -29,13 +29,13 @@ web developing community.
 # Cheat Sheet & Notes for Coding
 *[Linux Tutorial Basic Navigation Source](https://ryanstutorials.net/linuxtutorial/navigation.php)*
 
-### Navigation
+## Navigation
 - **`pwd`** - short for "Print Working Directory". `pwd` tells you what your current or present working directory. 
 
 - **`ls`** - short for list".  Shares what's in our current location.
   * **`ls -l`** will display a list of contents
   * **`ls [source option]`** The square brackets ( [ ] ) mean that those items are optional, we may run the command with or without them. e.g.  `ls /welcome` displays a listing of contents of the `/welcome` directory
-### Paths
+## Paths
 **There are 2 types of paths we can use, absolute and relative.** 
 Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location).
 
@@ -45,18 +45,19 @@ To begin with, we have to understand that the file system under linux is a hiera
 
 *Relative paths* specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
 
-### Moving Around in the System
+## Moving Around in the System
 In order to move around in the system, we use a command called cd which stands for change directory. It works as follows: `cd [location]'.
 - ***`cd`*** - means "change directory". If you type in only  `cd`, it will return you to the home directory.
   * ***`cd DeltaV`*** will take you directly to the DeltaV directory.
   * ***`cd /`*** will take you to the root directory.
   * ***`cd ~`*** will take you to the home directory
   
-### Files: `file [path]`
+## Files: `file [path]`
 [Linux Tutoral on Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-- *file* can obtain information about what type of file a file or directory is.
-- *ls -a* can list the contents of a directory, including hidden files.
-The following are important points for files: 
+- **`file [path]`** can obtain information about what type of file a file or directory is.
+- **`ls -a`** can list the contents of a directory, including hidden files.
+
+*The following are important points for files:* 
 - Everything is a file under Linux, even directories.
 - Linux is an extensionless system. Files can have any extension they like or none at all.
 - Linux is case sensitive. Beware of silly typos.
