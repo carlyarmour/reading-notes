@@ -35,6 +35,7 @@ web developing community.
 - **`ls`** - short for list".  Shares what's in our current location.
   * **`ls -l`** will display a list of contents
   * **`ls [source option]`** The square brackets ( [ ] ) mean that those items are optional, we may run the command with or without them. e.g.  `ls /welcome` displays a listing of contents of the `/welcome` directory
+
 ## Paths
 **There are 2 types of paths we can use, absolute and relative.** 
 Whenever we refer to a file or directory we are using one of these paths. Whenever we refer to a file or directory, we can, in fact, use either type of path (either way, the system will still be directed to the same location).
