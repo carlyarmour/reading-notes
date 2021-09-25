@@ -13,3 +13,4 @@ Join me on my journey as I learn about Markdown. Curious about what markdown is 
  - [About Me](/README.md)
  - [Growth Mindset](/Growth_Mindset.md)
  - [What is Markdown?](/Learning_Markdown.md)
+ - [Coder's Computer](/CodersComputer.md)
