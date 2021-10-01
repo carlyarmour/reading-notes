@@ -1,5 +1,5 @@
 # Revisions and the Cloud
-There is an alternative to making changes to your repositories on GitHub by copying or 'cloning' a repository onto your computer, and then using the Terminal and Visual Studio (VS) Code to make the wanted changes.
+DeltaV gave us a really helpful video tutorial on how to make changes to your repositories on GitHub by copying or 'cloning' a repository onto your computer, and then using the Terminal and Visual Studio (VS) Code to make the wanted changes. The following are summarized steps that may be helpful for those new in the field. 
 
 **To edit your GitHub repository on your computer via Terminal and VS Code**
 1. On GitHub, select the specific repository you want to work on and then click the green 'Code' button. A new window will appeared labeled as "Clone". 
