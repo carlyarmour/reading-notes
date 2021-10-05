@@ -1,4 +1,4 @@
-# Building HTML Strucure for Web Pages
+# Building HTML Structure for Web Pages
 
 - HTML, short for "HyperText Markup Language", is a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on web pages.
 - Content is wrapped (or marked-up) in "tags" (a.k.a. elements).
