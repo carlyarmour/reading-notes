@@ -28,3 +28,4 @@ DeltaV gave us a really helpful video tutorial on how to make changes to your re
 - [What is Markdown?](/Learning_Markdown.md)
 - [Coder's Computer](/CodersComputer.md)
 - [Revisions and the Cloud](/RevisionsandCloud.md)
+- [Using HTML to Structure Webpages](/HTML_Structure.md)
