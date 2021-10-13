@@ -29,3 +29,4 @@ DeltaV gave us a really helpful video tutorial on how to make changes to your re
 - [Coder's Computer](/CodersComputer.md)
 - [Revisions and the Cloud](/RevisionsandCloud.md)
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
+- [Designing Webpages with CSS](/designing_with_CSS.md)
