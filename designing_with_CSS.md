@@ -13,16 +13,17 @@ CSS is a rule-based language — you define rules specifying groups of styles th
 Below is an example. Before the colon, we have the property. After the colon, we have the value. CSS properties have different allowable values, depending on which property is being specified. In this example, we have the color property, which can take various [color values](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#color). We also have the font-size property. This property can take various [size units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units#numbers_lengths_and_percentages) as a value.
   
         h1 {
-
-        color: red;
- 
-        font-size: 5em;
- 
-        }
+       
+       color: red;
+       
+       font-size: 5em;
+       
+       }
+       
 **Tip:** There are many different ways to specify a color, such as a HEX value, RGB value, and its name. Here is a helpful [CSS Colors Chart](https://www.w3schools.com/cssref/css_colors.asp).
 
 ## CSS Modules
-Modules are sets of rules in CSS to do specific things so don't have to repeat the cycle of coding your sytles on each page. If you'd like to work on **backgrounds and borders** for your page, here is a great resource: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders. 
+Modules are sets of rules in CSS to do specific things so don't have to repeat the cycle of coding your sytles on each page. If you'd like to work on **backgrounds and borders** for your page, here is a [great resource](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Backgrounds_and_Borders).
 
 ## Three Ways to Insert CSS
 When a browser reads a style sheet, it will format the HTML document according to the information in the style sheet.There are three ways of inserting a style sheet:
