@@ -5,7 +5,6 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 ![Armour Photo](/Armour_resized.jpg)
 
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -13,3 +12,4 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 - [Revisions and the Cloud](/RevisionsandCloud.md)
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
+- [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
