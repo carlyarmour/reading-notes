@@ -71,3 +71,4 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 - [Revisions and the Cloud](/RevisionsandCloud.md)
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
+- [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
