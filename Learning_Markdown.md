@@ -25,3 +25,4 @@ What is Syntax in Computer Progamming/Coding? Syntax is the set of rules that de
 - [Revisions and the Cloud](/RevisionsandCloud.md)
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
+- [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
