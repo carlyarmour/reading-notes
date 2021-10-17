@@ -15,7 +15,7 @@ Like most expressions, assignments like x = y have a return value.
   1. Arithmetic Expressions - evaluate to a numeric value. Examples include the following: 
       > 10;     // Here 10 is an expression that is evaluated to the numeric value 10 by the JS interpreter.
       > 
-      > 10+13; // This is another expression that is evaluated to produce the numeric value 23. 
+      > 10+13; // This is another expression that is evaluated to produce the numeric value 23.
   2. String Expressions - evaluate to a string. Examples include the following: 
       > 'hello';
       > 
@@ -38,7 +38,7 @@ Like most expressions, assignments like x = y have a return value.
       >
       > sum;           // Value of variable sum
       >
-      > this;          // A keyword that evaluates to the current object  
+      > this;          // A keyword that evaluates to the current object
      
    5. Left-hand-side Expressions -Also known as lvalues, left-hand-side expressions are those that can appear on the left side of an assignment expression. Examples of left-hand-side expressions include the following:
       > // variables such as i and total
@@ -64,25 +64,47 @@ Like most expressions, assignments like x = y have a return value.
       > ++(a+1); // SyntaxError. Attempting to increment or decrement an expression that is not an lvalue will lead to errors.           
               
 ## Functions
-[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) take input in some form and provide output. They must be 'declared', such as in the following format:
+[Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions) take input in some form and provide output. To use a function, you must define it somewhere in the scope from which you wish to call it.They must be 'declared', such as in the following format:
 
-> `function functionName(parameter, parameter, etc) {`
-> 
->   `JavaScript statement`
-> 
-> `}`
+      > `function functionName(parameter, parameter, etc) {`
+      > 
+      >   `JavaScript statement`
+      > 
+      > `}`
 
 or you can use a function expression to do so inside an expression, such as:
 
-> `const getRectArea = function(width, height) {`
-> 
->  `return width * height;`
-> 
-> `};`
-> 
-> `console.log(getRectArea(3, 4));`
+      > `const getRectArea = function(width, height) {`
+      > 
+      >  `return width * height;`
+      > 
+      > `};`
+      > 
+      > `console.log(getRectArea(3, 4));`
 
 Note that variables defined inside the function are not accessible outside the function. 
 
 ## Control Flow
-This is the order in which the computer executes statements in a script. It is executed from first to last, except where told to change the flow such as with conditional statements and loops. 
+This is the order in which the computer executes statements in a script. Control flow in JavaScript is how your computer runs code from top to bottom. It starts from the first line and ends at the last line, unless it hits any statement that changes the control flow of the program such as loops, conditionals, or functions. In this article, I’m going to be explaining these three statements more in depth, and how they affect control flow.
+For example, imagine a script used to validate user data from a webpage form. The script submits validated data, but if the user, say, leaves a required field empty, the script prompts them to fill it in. To do this, the script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not:
+      > if (field==empty) {
+      >
+      > promptUser();
+      >
+      > } else {
+      >
+      > submitForm();
+      > }
+   
+## Navigation
+
+- [About Me](/README.md)
+- [Growth Mindset](/Growth_Mindset.md)
+- [What is Markdown?](/Learning_Markdown.md)
+- [Coder's Computer](/CodersComputer.md)
+- [Revisions and the Cloud](/RevisionsandCloud.md)
+- [Using HTML to Structure Webpages](/HTML_Structure.md)
+- [Designing Webpages with CSS](/designing_with_CSS.md)
+- [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](/Programming_With_JavaScript.md)
+      
