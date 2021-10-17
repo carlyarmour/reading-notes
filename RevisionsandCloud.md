@@ -31,3 +31,4 @@ DeltaV gave us a really helpful video tutorial on how to make changes to your re
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](/Programming_With_JavaScript.md)
