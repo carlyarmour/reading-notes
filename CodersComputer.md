@@ -87,3 +87,4 @@ In order to move around in the system, we use a command called cd which stands f
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](/Programming_With_JavaScript.md)
