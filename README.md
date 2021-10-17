@@ -13,3 +13,4 @@ My name is Carly Armour. I am currently a doctoral student in the Educational Po
 - [Using HTML to Structure Webpages](/HTML_Structure.md)
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
+- [Programming with JavaScript](/Programming_With_JavaScript.md)
