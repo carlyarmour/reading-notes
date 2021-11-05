@@ -63,7 +63,6 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
     > `<span style="font-size: 32px; margin: 21px 0;">Is this a top level heading?</span>`
 
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -73,3 +72,4 @@ In programming, Semantics refers to the meaning of a piece of code — for examp
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
