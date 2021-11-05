@@ -17,7 +17,6 @@ What is Syntax in Computer Progamming/Coding? Syntax is the set of rules that de
 "This is awesome! Where can I learn how to create syntax on Github?" Glad you asked! I found this [guide](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) very helpful, which I encourage you to explore. Have fun!
 
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -27,3 +26,4 @@ What is Syntax in Computer Progamming/Coding? Syntax is the set of rules that de
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
