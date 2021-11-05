@@ -23,6 +23,7 @@ DeltaV gave us a really helpful video tutorial on how to make changes to your re
 
 ## Navigation
 
+## Navigation
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -32,3 +33,4 @@ DeltaV gave us a really helpful video tutorial on how to make changes to your re
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
