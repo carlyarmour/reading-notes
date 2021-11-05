@@ -63,7 +63,6 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 So, an inline style has the highest priority, and will override external and internal styles and browser defaults. [Try it yourself](https://www.w3schools.com/css/tryit.asp?filename=trycss_howto_cascade).
   
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -73,3 +72,4 @@ So, an inline style has the highest priority, and will override external and int
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
