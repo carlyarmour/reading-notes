@@ -94,7 +94,6 @@ Keep building your knowledge with the following!
 If you're interested in learning more, scroll down to the bottom of the link of any of the above examples for more!
 
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -104,3 +103,4 @@ If you're interested in learning more, scroll down to the bottom of the link of 
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
