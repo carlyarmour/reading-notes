@@ -78,7 +78,6 @@ In order to move around in the system, we use a command called cd which stands f
 - Linux is case sensitive. Beware of silly typos.
 
 ## Navigation
-
 - [About Me](/README.md)
 - [Growth Mindset](/Growth_Mindset.md)
 - [What is Markdown?](/Learning_Markdown.md)
@@ -88,3 +87,4 @@ In order to move around in the system, we use a command called cd which stands f
 - [Designing Webpages with CSS](/designing_with_CSS.md)
 - [Designing Dynamic Webpages with JavaScript](/Dynamic_Web_Pages_with_JavaScript.md)
 - [Programming with JavaScript](/Programming_With_JavaScript.md)
+- [Operators and Loops](/Operators_and_Loops.md) 
