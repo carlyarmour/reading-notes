@@ -60,7 +60,7 @@ In this case, the music would stop as soon as everyone left the party or if it i
 
 [**Practice `while` loops here**](https://www.tutorialsteacher.com/javascript/javascript-while-loop)
 
-### [Additional Resource](https://technovationchallenge.org/curriculum/coding-10/)
+### [Additional Loop Resource](https://technovationchallenge.org/curriculum/coding-10/)
 
 
 ## Navigation
